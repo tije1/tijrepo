@@ -5,5 +5,9 @@ public class GithubPracticeTwo {
 	{
 return  (a*b);
 }
+		public int mult (int a, int b,int c)
+	{
+return  (a*b+b);
+}
 
 }
